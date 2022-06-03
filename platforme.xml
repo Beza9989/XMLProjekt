@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Platforme.xsl"?>
+<Platforme>
+    <Platforma>
+        <Naslov>Bugcrowd</Naslov>
+        <Logo>bugcrowd.png</Logo>
+        <Crowdsourced>true</Crowdsourced>
+        <GodinaOsnovanja>2011</GodinaOsnovanja>
+    </Platforma>
+    <Platforma>
+        <Naslov>Hackerone</Naslov>
+        <Logo>hackerone.png</Logo>
+        <Crowdsourced>true</Crowdsourced>
+        <GodinaOsnovanja>2012</GodinaOsnovanja>
+    </Platforma>
+    <Platforma>
+        <Naslov>Synack</Naslov>
+        <Logo>synack.png</Logo>
+        <Crowdsourced>true</Crowdsourced>
+        <GodinaOsnovanja>2013</GodinaOsnovanja>
+    </Platforma>
+    <Platforma>
+        <Naslov>SecureBug</Naslov>
+        <Logo>securebug.webp</Logo>
+        <Crowdsourced>true</Crowdsourced>
+        <GodinaOsnovanja>2019</GodinaOsnovanja>
+    </Platforma>
+</Platforms>
